@@ -1,4 +1,4 @@
 # git-learnint
 
 小明的输入
-x
+小王的输入
